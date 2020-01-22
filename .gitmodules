@@ -7,3 +7,8 @@
 	path = cfletes13/marvelmarcas
 	url = git@github.com:cfletes13/marvelmarcas.git
 	branch = master
+
+[submodule "gnieto2824/limite"]
+	path = gnieto2824/limite
+	url = git@github.com:gnieto2824/limite.git
+	branch = master
