@@ -20,3 +20,8 @@
 	path = mexico
 	url = git@git.vauxoo.com:vauxoo/mexico.git
 	branch = 12.0
+
+[submodule "cfletes13/stock_no_negative"]
+	path = cfletes13/stock_no_negative
+	url = git@github.com:cfletes13/stock_no_negative.git
+	branch = master
