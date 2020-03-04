@@ -35,3 +35,8 @@
 	path = cfletes13/pos_product_available
 	url = git@github.com:cfletes13/pos_product_available.git
 	branch = master
+
+[submodule "cfletes13/pos_pin"]
+	path = cfletes13/pos_pin
+	url = git@github.com:cfletes13/pos_pin.git
+	branch = master
