@@ -40,3 +40,8 @@
 	path = cfletes13/pos_pin
 	url = git@github.com:cfletes13/pos_pin.git
 	branch = master
+
+[submodule "cfletes13/stock_forecast"]
+	path = cfletes13/stock_forecast
+	url = git@github.com:cfletes13/stock_forecast.git
+	branch = master
