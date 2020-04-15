@@ -45,3 +45,8 @@
 	path = cfletes13/stock_forecast
 	url = git@github.com:cfletes13/stock_forecast.git
 	branch = master
+
+[submodule "cfletes13/marvelsa_minimum_price"]
+	path = cfletes13/marvelsa_minimum_price
+	url = git@github.com:cfletes13/marvelsa_minimum_price.git
+	branch = master
