@@ -60,3 +60,8 @@
 	path = cfletes13/report_sale_profitability_ept
 	url = git@github.com:cfletes13/report_sale_profitability_ept.git
 	branch = master
+
+[submodule "cfletes13/stock_cycle_count"]
+	path = cfletes13/stock_cycle_count
+	url = git@github.com:cfletes13/stock_cycle_count.git
+	branch = master
