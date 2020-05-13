@@ -76,7 +76,4 @@
 	url = git@github.com:cfletes13/stock_inventory_exclude_sublocation.git
 	branch = master
 
-[submodule "jgarcia2101/label_zebra_printer"]
-	path = jgarcia2101/label_zebra_printer
-	url = git@github.com:jgarcia2101/label_zebra_printer.git
-	branch = master
+
