@@ -82,3 +82,8 @@
 	path = jgarcia2101/label_zebra_printer_new
 	url = git@github.com:jgarcia2101/label_zebra_printer.git
 	branch = master
+
+[submodule "cfletes13/advance_purchase_ordering_ept"]
+	path = cfletes13/advance_purchase_ordering_ept
+	url = git@github.com:cfletes13/advance_purchase_ordering_ept.git
+	branch = master
