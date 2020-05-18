@@ -102,3 +102,8 @@
 	path = cfletes13/deltatech_simple_crm_claim
 	url = git@github.com:cfletes13/deltatech_simple_crm_claim.git
 	branch = master
+
+[submodule "cfletes13/mvsa_claims"]
+	path = cfletes13/mvsa_claims
+	url = git@github.com:cfletes13/mvsa_claims.git
+	branch = master
