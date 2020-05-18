@@ -97,3 +97,8 @@
 	path = gnieto2824/inventory_coverage_report_ept
 	url = git@github.com:gnieto2824/inventory_coverage_report_ept.git
 	branch = master
+
+[submodule "cfletes13/deltatech_simple_crm_claim"]
+	path = cfletes13/deltatech_simple_crm_claim
+	url = git@github.com:cfletes13/deltatech_simple_crm_claim.git
+	branch = master
