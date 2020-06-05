@@ -100,3 +100,8 @@
 	path = cfletes13/mvsa_claims
 	url = git@github.com:cfletes13/mvsa_claims.git
 	branch = master
+
+[submodule "jgarcia2101/label_zebra_printer"]
+	path = jgarcia2101/label_zebra_printer
+	url = git@github.com:jgarcia2101/label_zebra_printer.git
+	branch = master
