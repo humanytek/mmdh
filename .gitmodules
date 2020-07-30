@@ -105,3 +105,8 @@
 	path = jgarcia2101/label_zebra_printer
 	url = git@github.com:jgarcia2101/label_zebra_printer.git
 	branch = master
+
+[submodule "cfletes13/website_webkul_addons"]
+	path = cfletes13/website_webkul_addons
+	url = git@github.com:cfletes13/website_webkul_addons.git
+	branch = master
