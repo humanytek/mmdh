@@ -142,10 +142,6 @@
 	url = git@github.com:cfletes13/hr_attendance_print.git
 	branch = master
 
-[submodule "cfletes13/shopify_odoo_inventory_synchronisation"]
-	path = cfletes13/shopify_odoo_inventory_synchronisation
-	url = git@github.com:cfletes13/shopify_odoo_inventory_synchronisation.git
-	branch = master
 
 [submodule "cfletes13/shopify_product_upload"]
 	path = cfletes13/shopify_product_upload
