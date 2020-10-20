@@ -154,3 +154,8 @@
 	branch = master
 
 
+
+[submodule "cfletes13/website_sale_pricelist_visibility"]
+	path = cfletes13/website_sale_pricelist_visibility
+	url = git@github.com:cfletes13/website_sale_pricelist_visibility.git
+	branch = master
