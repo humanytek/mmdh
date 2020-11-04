@@ -165,9 +165,4 @@
 	url = git@github.com:cfletes13/website_stock.git
 	branch = master
 
-[submodule "Narfthag/shopify_odoo_inventory_synchronisation"]
-	path = Narfthag/shopify_odoo_inventory_synchronisation
-	url = git@github.com:Narfthag/shopify_odoo_inventory_synchronisation.git
-	branch = master
-
 
