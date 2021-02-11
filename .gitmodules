@@ -194,3 +194,8 @@
 	path = cequihuamarvelsa/mdh
 	url = git@github.com:cequihuamarvelsa/mdh.git
 	branch = master
+
+[submodule "cfletes13/pos_set_default_customer"]
+	path = cfletes13/pos_set_default_customer
+	url = git@github.com:cfletes13/pos_set_default_customer.git
+	branch = master
