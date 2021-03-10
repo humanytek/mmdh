@@ -180,11 +180,6 @@
 	url = git@github.com:cfletes13/marvelmarcas.git
 	branch = master
 
-[submodule "cfletes13/ninebox_employee_performance"]
-	path = cfletes13/ninebox_employee_performance
-	url = git@github.com:cfletes13/ninebox_employee_performance.git
-	branch = master
-
 [submodule "cfletes13/shopify_odoo_inventory_synchronisation"]
 	path = cfletes13/shopify_odoo_inventory_synchronisation
 	url = git@github.com:cfletes13/shopify_odoo_inventory_synchronisation.git
@@ -203,9 +198,4 @@
 [submodule "cfletes13/aar_pos_ticket"]
 	path = cfletes13/aar_pos_ticket
 	url = git@github.com:cfletes13/aar_pos_ticket.git
-	branch = master
-
-[submodule "cequihuamarvelsa/mdh"]
-	path = cequihuamarvelsa/mdh
-	url = git@github.com:cequihuamarvelsa/mdh.git
 	branch = master
