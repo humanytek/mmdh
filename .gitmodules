@@ -203,3 +203,8 @@
 	path = gnieto2824/setu_advance_inventory_reports
 	url = git@github.com:gnieto2824/setu_advance_inventory_reports.git
 	branch = master
+
+[submodule "cequihuamarvelsa/mdh"]
+	path = cequihuamarvelsa/mdh
+	url = git@github.com:cequihuamarvelsa/mdh.git
+	branch = master
