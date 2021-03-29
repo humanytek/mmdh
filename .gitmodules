@@ -203,3 +203,8 @@
 	path = cequihuamarvelsa/mdh
 	url = git@github.com:cequihuamarvelsa/mdh.git
 	branch = master
+
+[submodule "cfletes13/to_attendance_device"]
+	path = cfletes13/to_attendance_device
+	url = git@github.com:cfletes13/to_attendance_device.git
+	branch = master
