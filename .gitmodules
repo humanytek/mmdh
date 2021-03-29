@@ -121,11 +121,6 @@
 	url = git@github.com:cfletes13/to_safe_confirm_button.git
 	branch = master
 
-[submodule "cfletes13/to_attendance_device"]
-	path = cfletes13/to_attendance_device
-	url = git@github.com:cfletes13/to_attendance_device.git
-	branch = master
-
 [submodule "cfletes13/hr_attendance_print"]
 	path = cfletes13/hr_attendance_print
 	url = git@github.com:cfletes13/hr_attendance_print.git
